@@ -4,9 +4,9 @@
 <div align="center">
     <h1>Java Programming Playground</h1>
 
-    <p>
+
         Welcome to my Java Programming Playground! 🚀
-    </p>
+    
 </div>
 
 ## 📚 Introduction
