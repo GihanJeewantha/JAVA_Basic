@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1>Java Programming Playground</h1>
-    <img src="https://your-image-url.com" alt="Java Programming Playground Logo" width="200px">
+
     <p>
         Welcome to my Java Programming Playground! 🚀
     </p>
